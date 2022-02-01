@@ -1,0 +1,68 @@
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.exe
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll.config
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.deps.json
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.runtimeconfig.json
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.Form1.resources
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.GenerateResource.cache
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfoInputs.cache
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfo.cs
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.CoreCompileInputs.cache
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\source\repos\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.genruntimeconfig.cache
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.exe
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll.config
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.deps.json
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.runtimeconfig.json
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.Form1.resources
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.GenerateResource.cache
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfoInputs.cache
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfo.cs
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.CoreCompileInputs.cache
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\Desktop\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.genruntimeconfig.cache
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.exe
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll.config
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.deps.json
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.runtimeconfig.json
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.Form1.resources
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.GenerateResource.cache
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfoInputs.cache
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfo.cs
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.CoreCompileInputs.cache
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\Desktop\New folder (2)\DSI\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.genruntimeconfig.cache
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.exe
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll.config
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.deps.json
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.runtimeconfig.json
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\bin\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.Form1.resources
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.GenerateResource.cache
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfoInputs.cache
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.AssemblyInfo.cs
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.csproj.CoreCompileInputs.cache
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.dll
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\ref\AttendanceNotification.dll
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.pdb
+C:\Users\user446\Desktop\dev\dd\AttendanceNotification\AttendanceNotification\obj\Debug\net6.0-windows\AttendanceNotification.genruntimeconfig.cache
